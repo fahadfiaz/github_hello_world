@@ -1,1 +1,5 @@
-Hi. This file is created to make main branch one commit ahead
+<<<<<<< HEAD
+Hi. This file is created to make main branch one commit ahead.
+=======
+Hi. This file is created to make main branch one commit ahead.
+>>>>>>> conflict
